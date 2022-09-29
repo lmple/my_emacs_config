@@ -1,3 +1,5 @@
-# my_emacs_config
- 
-# config_emacs
+# Emacs Config
+
+Python, OCaml, Haskell, Markdown and Latex for now
+
+`cp emacs ~/.emacs`
